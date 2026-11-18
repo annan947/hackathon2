@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Downloads/hackathon2-main/build/cmake_install.cmake",
+		"D:/Downloads/hackathon2-main/build/_deps/raylib-build/cmake_install.cmake",
+		"D:/Downloads/hackathon2-main/build/_deps/raylib-build/raylib/cmake_install.cmake",
+		"D:/Downloads/hackathon2-main/build/_deps/raylib-build/raylib/external/glfw/cmake_install.cmake",
+		"D:/Downloads/hackathon2-main/build/_deps/raylib-build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
